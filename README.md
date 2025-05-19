@@ -21,5 +21,5 @@ Once this data is calculated, script will update appropriate columns in a Google
 #### Output
 ![Script output](https://i.imgur.com/BM3GpzW.png)
 
-### Options
+#### Options
 ![Help](https://i.imgur.com/CzILSdt.png)
